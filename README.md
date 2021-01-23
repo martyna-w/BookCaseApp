@@ -1,4 +1,3 @@
-<img align="right" width="280" height="90" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/100658691_788726541657708_6944595524993417216_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=ur5ostpVil4AX9rQhpM&_nc_ht=scontent-waw1-1.xx&oh=ffcee2febe6175cddb293c7851ad1134&oe=5EF55B47">
 
 # Bookcase
 
